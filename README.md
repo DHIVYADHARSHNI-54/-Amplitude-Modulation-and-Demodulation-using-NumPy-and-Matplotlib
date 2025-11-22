@@ -77,6 +77,11 @@ __Program__:
     plt. ght_layout() 
     plt.show()
 
+__Tabulation__:
+
+<img width="826" height="700" alt="image" src="https://github.com/user-attachments/assets/7f0b5889-7555-43c5-b656-fdc2087a57d9" />
+
+
  __Output__:
 <img width="1198" height="990" alt="image" src="https://github.com/user-attachments/assets/30c20494-ca0b-4795-acc3-8a6f8b69b954" />
 
